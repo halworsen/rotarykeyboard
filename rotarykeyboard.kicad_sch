@@ -2345,7 +2345,7 @@
       (reference "R218") (unit 1) (value "330") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/950510c1-90b0-43b8-9058-ad871f6f14aa/946ba078-788d-4363-a34a-cb1a05efb0a6"
-      (reference "R219") (unit 1) (value "6k8") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R219") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/7c4bfd4c-2670-4cd0-b3e5-40a0cd7c509f/8abb40d5-53c9-4c86-a6f9-c8a56cc2a8b3"
       (reference "R301") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric")
