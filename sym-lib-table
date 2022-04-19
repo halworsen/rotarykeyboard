@@ -9,4 +9,5 @@
   (lib (name "IS32FL3238")(type "KiCad")(uri "${KIPRJMOD}/symbols/IS32FL3238.kicad_sym")(options "")(descr ""))
   (lib (name "rotarykeyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/rotarykeyboard-rescue.lib")(options "")(descr "")(disabled))
   (lib (name "BZA956A")(type "KiCad")(uri "${KIPRJMOD}/symbols/BZA956A.kicad_sym")(options "")(descr ""))
+  (lib (name "XAMR14A2")(type "KiCad")(uri "${KIPRJMOD}/symbols/XAMR14A2.kicad_sym")(options "")(descr ""))
 )
